@@ -1,0 +1,6 @@
+{
+  "name": "梦幻鱼塘：水产庄园",
+  "description": "高品质 2.5D 等距视角水产庄园主场景，呈现动态波纹鱼塘、立体游动锦鲤与食用鱼群、生态水草荷叶、木桥及水产养殖设施。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
